@@ -40,7 +40,7 @@ language-translator-app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/language-translator-app.git
+git clone https://github.com/aanya25bai10190/language-translator-app
 cd language-translator-app
 ```
 
